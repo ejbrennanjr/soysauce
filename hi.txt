@@ -1,1 +1,1 @@
-yellow.py
+print("hello world")
